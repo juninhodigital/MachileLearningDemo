@@ -1,6 +1,5 @@
 # Machine Learning Demo - MBA (14NET)
-#### Machine Leaning using Sentiment Analysis Demo
-Solução usando Visual Studio 2019 com ML.NET para análise de sentimentos
+#### Machine Learning demonstration using sentiment analysis provided by the ML.NET Model Builder
 
 Visual Studio Extension:
 - [x] https://marketplace.visualstudio.com/items?itemName=MLNET.07
